@@ -11,30 +11,33 @@
 My nationality is Australian, as is my whole family. I have lived in Bundaberg, Queensland for my whole 21 years of life. My highest level of education is currently Year 12, but I am currently enrolled in both IIT and Programming with RMIT University. My primary hobby when I am not working retail full time is gaming on my new PC which I built on my own with no experience or help apart from YouTube videos. Otherwise, I am spending time with my partner and our cat, rats, and fish.
 IT became a larger part in my life when I realized that my line of work just did not make me happy anymore, friends from my workplace both enrolled with RMIT doing the same courses and informed me of my possibilities within IT. With that came the urge to build my own PC and enroll shortly after, even with little to no experience, I still want to do the best I can. RMIT was my chosen University as at the time of my enrolment, there was government aid which gave me the final push to commit to these courses. My expectations are extremely high in learning the inner-workings of IT and increasing my knowledge within the fields of web-development, App-development, both front and back end, alongside understanding more about designing and programming for businesses.</p> 
 <h1>Ideal Job</h1>
-  
+ <p>Business Improvement <a href="https://www.seek.com.au/job/59310641?type=standout#sol=a4d529b61b25248d0f2a4a6203c63d76c97a8a4d">Specialist</a></p>
+<P>https://www.seek.com.au/job/59310641?type=standout#sol=a4d529b61b25248d0f2a4a6203c63d76c97a8a4d<P> 
 <p>Business Improvement specialists work with users to help improve their current business processes and provide recommendations to better their internal working practices. The requirements for this position are as followed; More than 2 years in Business Analysis, experience working with subject matter experts to create working requirements for system development to support businesses, understanding of business and system improvement processes, strong written and verbal communications, the ability to collaborate, document and deliver on time, experience working as part of a project team, more than secondary qualifications in business and/or IT and experience with Dynamics 365 and/or SharePoint is highly desirable. Currently my skill related to this position is just the extremely basic introduction to IT. By continuing with my current courses and furthermore completing 2 years in Business Analysis my skillset will be large enough to begin working with business, which will then give me all the requirements for this position.</p>
 
   <img src="![ideal job](https://user-images.githubusercontent.com/120351360/208072086-a534543b-cd8b-4a55-9dfd-df7df2f1b063.jpg)" alt="" width="104" height="142">
   
 <h1>Personal Profile<h1>
 <p>Myers-Briggs test results-<p>
-<p>⦁	Advocate<p>
-<p>⦁	 69% introverted<p>
-<p>⦁	 58% intuitive<p>
-<p>⦁	 73% feeling,<p>
-<p>⦁	 65% judging<p>
-<p>⦁	 58% Turbulent<p>
+<p>	 Advocate<p>
+<p>	 69% introverted<p>
+<p>	 58% intuitive<p>
+<p>	 73% feeling,<p>
+<p>	 65% judging<p>
+<p>	 58% Turbulent<p>
+  
 <p>Education planner learning test results-<p>
-<p>⦁	Visual Learner<p>
-<p>⦁	 30% Auditory<p>
-<p>⦁	 45% Visual<p>
-<p>⦁	 25% Tactile<p>
+<p>	Visual Learner<p>
+<p> 30% Auditory<p>
+<p> 45% Visual<p>
+<p>	25% Tactile<p>
+  
 <p>The Big 5 personality test results-<p>
-<p>⦁	 Openness 73%<p>
-<p>⦁	 Conscientiousness 60%<p>
-<p>⦁	 Extraversion 40%<p>
-<p>⦁	 Agreeableness 69%<p>
-<p>⦁	 Neuroticism 67%<p>
+<p>	 Openness 73%<p>
+<p>	 Conscientiousness 60%<p>
+<p>	 Extraversion 40%<p>
+<p>	 Agreeableness 69%<p>
+<p>	 Neuroticism 67%<p>
 
 <p>These test results further prove my own knowledge that I tend to be an introverted and rather emotional person that does tend to bottle up any negative feelings. During any teamwork in which I’m involved, I may tend to sit back and stay quiet to keep the peace rather than speak my mind. When forming a team, my main priority will be focusing on speaking up to any concerns or issues which I may run into during group work.<p>
 <h1>Project Idea<h1>
