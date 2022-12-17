@@ -14,7 +14,7 @@ IT became a larger part in my life when I realized that my line of work just did
  <p><a href="https://www.seek.com.au/job/59310641?type=standout#sol=a4d529b61b25248d0f2a4a6203c63d76c97a8a4d">Business Improvement Specialist</a></p>
 <p>Business Improvement specialists work with users to help improve their current business processes and provide recommendations to better their internal working practices. The requirements for this position are as followed; More than 2 years in Business Analysis, experience working with subject matter experts to create working requirements for system development to support businesses, understanding of business and system improvement processes, strong written and verbal communications, the ability to collaborate, document and deliver on time, experience working as part of a project team, more than secondary qualifications in business and/or IT and experience with Dynamics 365 and/or SharePoint is highly desirable. Currently my skill related to this position is just the extremely basic introduction to IT. By continuing with my current courses and furthermore completing 2 years in Business Analysis my skillset will be large enough to begin working with business, which will then give me all the requirements for this position.</p>
 
-  <img src="![ideal job](https://user-images.githubusercontent.com/120351360/208072086-a534543b-cd8b-4a55-9dfd-df7df2f1b063.jpg)" alt="" width="104" height="142">
+  <img src="Screenshot (16).png" alt="" width="600" height="700">
   
 <h1>Personal Profile</h1>
 <p>Myers-Briggs test results-</p>
