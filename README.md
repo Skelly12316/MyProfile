@@ -1,23 +1,18 @@
 # My IT Profile
 <!DOCTYPE html>
-<html>
-<head>
 
-</head>
-<body>
-
-<h1>Samuel Kelly</h1> 
+<h1 style="color:purple;">Samuel Kelly</h1> 
  <img src="https://github.com/Skelly12316/Assesment-Piece-1/blob/main/profile%20phot.jpg.jpg " alt="" width="225" height="330"> 
 <p>s3987667, S3987667@student.rmit.edu.au.</p>
 <p>My nationality is Australian, as is my whole family. I have lived in Bundaberg, Queensland for my whole 21 years of life. My highest level of education is currently Year 12, but I am currently enrolled in both IIT and Programming with RMIT University. My primary hobby when I am not working retail full time is gaming on my new PC which I built on my own with no experience or help apart from YouTube videos. Otherwise, I am spending time with my partner and our cat, rats, and fish.
 IT became a larger part in my life when I realized that my line of work just did not make me happy anymore, friends from my workplace both enrolled with RMIT doing the same courses and informed me of my possibilities within IT. With that came the urge to build my own PC and enroll shortly after, even with little to no experience, I still want to do the best I can. RMIT was my chosen University as at the time of my enrolment, there was government aid which gave me the final push to commit to these courses. My expectations are extremely high in learning the inner-workings of IT and increasing my knowledge within the fields of web-development, App-development, both front and back end, alongside understanding more about designing and programming for businesses.</p> 
-<h1>Ideal Job</h1>
+<h1 style="color:purple;">Ideal Job</h1>
 <a href= "https://www.seek.com.au/job/59310641type=standout#sol=a4d529b61b25248d0f2a4a6203c63d76c97a8a4d" target="_blank"              >Business Improvement Specialist</a>
 <p>Business Improvement specialists work with users to help improve their current business processes and provide recommendations to better their internal working practices. The requirements for this position are as followed; More than 2 years in Business Analysis, experience working with subject matter experts to create working requirements for system development to support businesses, understanding of business and system improvement processes, strong written and verbal communications, the ability to collaborate, document and deliver on time, experience working as part of a project team, more than secondary qualifications in business and/or IT and experience with Dynamics 365 and/or SharePoint is highly desirable. Currently my skill related to this position is just the extremely basic introduction to IT. By continuing with my current courses and furthermore completing 2 years in Business Analysis my skillset will be large enough to begin working with business, which will then give me all the requirements for this position.</p>
 
   <img src="Screenshot (16).png" alt="" width="600" height="700">
   
-<h1>Personal Profile</h1>
+<h1 style="color:purple;">Personal Profile</h1>
 <p>Myers-Briggs test results-</p>
 <p>	 Advocate</p>
 <p>	 69% introverted<p>
@@ -40,7 +35,8 @@ IT became a larger part in my life when I realized that my line of work just did
 <p>	 Neuroticism 67%<p>
 
 <p>These test results further prove my own thoughts that I tend to be an introverted and rather emotional person that does tend to bottle up any negative feelings. During any teamwork in which I’m involved, I may tend to sit back and stay quiet to keep the peace rather than speak my mind. When forming a team, my main priority will be focusing on speaking up to any concerns or issues which I may run into during group work.<p>
-<h1>Project Idea</h1>
+
+<h1 style="color:purple;">Project Idea</h1>
 <p>My chosen project type is a mobile application that creates an algorithm based off the user’s input of previously consumed foods alongside the user’s chosen preferred meal types that can be selected at any given time. This will make choosing what to eat for any meal of the day much easier for the user and take away the stress of being indecisive when they can’t quite choose what to eat. The app will be very simple and easy to navigate as the main goal is to get the user sorted and on track as soon as possible by using a streamlined service with minimal navigation.<p>
 
 <p>There’s been countless times where I find myself lost thinking about what to have for dinner, so the idea for this app comes with a passion to save time stressing and more time enjoying a delicious meal. Supercook is a recipe search engine that lets users search by ingredients and find thousands of recipes with this information while bringing in almost 200,000 users per month. This information gives me solid faith in knowing that my program will be successful. My own personal motivation is by creating a working algorithm would be my ideal goal as well as to grow my skillset and knowledge while also opening the door to many more interesting projects.<p>
