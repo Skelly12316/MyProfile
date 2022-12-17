@@ -1,6 +1,14 @@
 # My IT Profile
 <!DOCTYPE html>
-
+<html>
+<head>
+<style>
+body {
+  background-color: LimeGreen;
+}
+</style>
+</head>
+<body>
 <h1 style="color:purple;">Samuel Kelly</h1> 
  <img src="https://github.com/Skelly12316/Assesment-Piece-1/blob/main/profile%20phot.jpg.jpg " alt="" width="225" height="330"> 
 <p>s3987667, S3987667@student.rmit.edu.au.</p>
