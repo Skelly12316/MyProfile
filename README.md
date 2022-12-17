@@ -1,5 +1,4 @@
 # My IT Profile
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -56,5 +55,4 @@ IT became a larger part in my life when I realized that my line of work just did
  <p>As previously mentioned, Programming skills and languages are required to be learnt in order to successfully create a functioning mobile application, other skills required include; Product management, Internet of things, agile development, cross-platform development, User interface design, Cybersecurity and communication. As for hardware, the lowest processor required for app development is an Intel Core i5 but anything higher is highly recommended. At least 8GB of RAM is required for IOS development but 16GB is recommended. At least 256GB storage is required, however, 512GB is highly recommended. It is also highly recommended that instead of using external HD storage, to use SSD instead. <p>
 
 <p>If this mobile app does render to be a success, it will greatly benefit the average user’s day by cutting out the stress and headaches associated with decision making when time is incredibly important, especially in a customer-based setting. This project will also help to give myself the experience and initial push to open the doorway into my ideal career choice in relation to the business aspect of application development. Other career paths may even stem from the success of my mobile app which will help to shape my career within the IT field depending on change of interests or newfound passions. <p>
-</body>
-</html>
+
