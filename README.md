@@ -7,6 +7,7 @@
 <body>
 
 <h1>Samuel Kelly</h1> 
+ <img src=" " alt="" width="600" height="700">" alt="" width="600" height="700">
 <p>s3987667, S3987667@student.rmit.edu.au.</p>
 <p>My nationality is Australian, as is my whole family. I have lived in Bundaberg, Queensland for my whole 21 years of life. My highest level of education is currently Year 12, but I am currently enrolled in both IIT and Programming with RMIT University. My primary hobby when I am not working retail full time is gaming on my new PC which I built on my own with no experience or help apart from YouTube videos. Otherwise, I am spending time with my partner and our cat, rats, and fish.
 IT became a larger part in my life when I realized that my line of work just did not make me happy anymore, friends from my workplace both enrolled with RMIT doing the same courses and informed me of my possibilities within IT. With that came the urge to build my own PC and enroll shortly after, even with little to no experience, I still want to do the best I can. RMIT was my chosen University as at the time of my enrolment, there was government aid which gave me the final push to commit to these courses. My expectations are extremely high in learning the inner-workings of IT and increasing my knowledge within the fields of web-development, App-development, both front and back end, alongside understanding more about designing and programming for businesses.</p> 
